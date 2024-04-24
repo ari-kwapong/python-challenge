@@ -1,5 +1,6 @@
 # python-challenge
-An analysis on PyBank data and PyPoll data using Python and VSCode
+An analysis on PyBank data and PyPoll data using Python and VSCode.
+
 Assisted by tutor (G. Perez)
 
 Data Source:
