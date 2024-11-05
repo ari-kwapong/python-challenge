@@ -1,5 +1,5 @@
 # python-challenge
-An analysis on financial records and election polls in order to create a script calculating multiple values.
+In this section, we create a Python script to extract specific values from financial records and election polls. 
 
 Tools:
 - Python
